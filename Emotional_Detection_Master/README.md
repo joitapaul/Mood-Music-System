@@ -22,7 +22,7 @@ cd Emotion-detection
 
 * Download the FER-2013 dataset inside the `src` folder.
 
-* If you want to train this model, use:  
+* If you want to train this model, use :
 
 ```bash
 cd src

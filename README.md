@@ -1,6 +1,6 @@
 # 🎵 Mood Music System  
 
-
+AI-powered Mood Music System that detects user emotions and recommends songs accordingly.
 
 ---
 

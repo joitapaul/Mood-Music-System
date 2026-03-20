@@ -4,7 +4,7 @@ AI-powered Mood Music System that detects user emotions and recommends songs acc
 
 ---
 
-## 📌 Project Overview  
+
 
 Mood Music System is an AI-based application that analyzes a user's mood using Machine Learning techniques and recommends music that matches the detected emotional state.
 
